@@ -1,5 +1,6 @@
 def subtracao(a,b):
-  return a - b
+  resultado = a - b
+  return resultado
 
 
 print(subtracao(1,50))
